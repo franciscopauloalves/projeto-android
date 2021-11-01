@@ -9,17 +9,16 @@
     font-weight: normal;
 }
 
-/* --cor1:#c5ebd6;*/
 
 :root {
---cor1:#f1aaaab4;
---cor2:#e67e7e;
---cor3:#dc3d3d;
---cor4:#880f0f;
---cor5:#460303;
---cor6:#1b0101;
+--cor1:#f78a8a;
+--cor2:#e75a5a;
+--cor3:#b12d2d;
+--cor4:#7a0a0a;
+--cor5:#330204;
+--cor6:#080000;
 
---font-padrao:arial, verdana, helvetica, sans-serif;
+--font-padrao: arial, verdana, helvetica, sans-serif;
 --font-destaque:'Bebas Neue', cursive;
 --font-android:'android',cursiva;
 }
@@ -28,9 +27,6 @@
     margin: 0px;
     padding: 0px;
 }
-
-
-
 
 body {
     background-color:var(--cor1);
